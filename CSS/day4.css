@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+.main{
+    margin: 0px;
+   background-image: url(../imgs/background.jpg);
+   height: 200vh;
+   width: 100%;
+   position: relative;
+}
+.my-selector{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    top: 400px; 
+    left: 910px;
+    padding: 15px 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+.logo{
+    margin-top:250px;
+    margin-left: 940px; 
+    width: 180px;
+    height: 110px;
+
+
+}
+button{
+    size: 20px;
+    height: 50px;
+    width: 300px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 130px;
+    margin-left: 910px;
+    text-decoration: space-between;
+    text-decoration: none;
+}
+button:hover{
+    color: black;
+    background-color: white;
+    
+}
+.above-nav{
+    margin-top: 0;
+    padding: 20px 20px;
+    height: 10px;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    background-color: whitesmoke;
+    
+}
+.nav-bar{
+    position: relative;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+.nav-bar .imges{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.nav-bar a{
+    margin-left: 75px;
+    color: black;
+    text-decoration: none;
+}
+.nav-img{
+    margin-left: 1100px;
+    padding-left: 30px;
+    margin-top: -22px;
+}
+.img-section{
+    margin-top: 50px ;
+    margin-bottom: 100px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 7px;
+}
+.img-section img{
+    width: 300px;
+    height: 320px;
+
+}
+
+
+
+/* .black-screen{
+  background-color: black;
+  width: 100%;
+  height: 150vh;
+  position: relative;
+}
+.box{
+    height: 100px;
+    width: 100px;
+
+}
+.b-box1{
+    background-color: aqua;
+    position: absolute;
+    left: 0px;
+
+}
+.b-box2{
+    background-color: red;
+    position: absolute;
+    left: 600px;
+    top: 30px;
+
+}.b-box3{
+    background-color: magenta;
+    position: absolute;
+    left:1050px;
+
+
+}
+.b-box4{
+    background-color: yellow;
+    position: absolute;
+    left: 600px;
+    top: 250px;
+
+}
+.b-box5{
+    background-color: forestgreen;
+    position: absolute;
+    left: 0px;
+    top: 500px;
+
+}
+.b-box6{
+    background-color: tomato;
+    position: absolute;
+    left: 600px;
+    top: 530px;
+
+}.b-box7{
+    background-color: magenta;
+    position: absolute;
+    left:1050px;
+   top: 500px;
+
+
+} */
+/* <!-- 2nd class tasks --> */
+/* .main{
+    position: relative;
+}
+h1{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+p{
+    margin-top:22px ;
+    margin-left:100px ;
+}
+.animation-section img{
+    position: absolute;
+    width: 400px;
+   height: 400px;
+   
+    margin-left: 800px;
+    margin-top: -350px;
+} */
+/* .progress-bar{
+    margin-top: 0;
+    height: 150px;
+    width: 400px;
+    border-radius: 15px;
+    
+    color: white;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.bar1{
+    width: 47%;
+    transition: width 2s;
+  
+}
+.bar1:hover{
+    width: 800px;
+    
+}
+.bar1{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: blue;
+}
+.bar2{
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+    background-color: blue;
+    
+}
+.bar3{
+    width: 300px;
+    height: 40px;
+   
+    margin-left: 40px;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: blue;
+} */
+ /* 2nd class  */
+ 
+/* .main{
+  
+   width: 500px;
+   height: 500px;
+   position: relative;
+   margin-top: 10%;
+   margin-left: 20%;
+   border: 2px solid black;
+   border-radius:50% ;
+   align-items: center;
+   }
+.roal{
+    width: 250px;
+    height: 10px;
+    margin-left: 21%;
+    margin-top: -1%;
+    background-color: purple;
+    margin: 50%;
+    border-radius: 30% 50% 30% 50%;
+    transition: all 3s ease-in-out ;
+}
+.roal:hover{
+    
+    transform: rotate(1080deg);
+}
+.bar{
+    width: 500px;
+    height: 5px;
+    background-color: black;
+   
+}
+.line1{
+    rotate: 90deg;
+    margin-top: 49%;
+    margin-left: -4%;
+   
+}.line2{
+    rotate: 180deg;
+   
+    margin-left: -1%;
+   
+} */
+
+
